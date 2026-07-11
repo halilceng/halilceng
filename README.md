@@ -12,9 +12,9 @@
   
   <br /><br />
 
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-5a189a?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-3c096c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-5a189a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://halil-isik.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-5a189a?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/halil-işık-b0a86522a"><img src="https://img.shields.io/badge/LinkedIn-3c096c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:halil.isik990@gmail.com"><img src="https://img.shields.io/badge/Email-5a189a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/halilceng"><img src="https://img.shields.io/badge/GitHub-3c096c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
   <br /><br />
@@ -83,49 +83,37 @@ Experienced and product-focused **Software Engineer** specializing in robust bac
 <details>
   <summary><b>1. ASP.NET Core MVC Enterprise Car Rental System</b> <i>(Click to expand)</i></summary>
   <br />
-  A full-fledged, scalable car rental web application designed with modern software architecture principles. Features complete CRUD operations, relational database management, and an optimized frontend interface.
+  A full-fledged, scalable car rental web application designed with modern software architecture principles.
   <br /><br />
   
   | Metric | Implementation Details |
   | :--- | :--- |
   | **Stack** | C#, .NET Core MVC, Entity Framework, SQL, Bootstrap |
-  | **Scale** | Multi-layered architecture (Presentation, Business, Data Access) |
-  | **Performance** | Optimized query execution and lightweight MVC routing |
-  | **Security** | Encrypted connection strings, parameterized SQL queries |
-  | **Impact** | Fully functional enterprise simulation ready for production |
-  | **Repo** | <a href="#"><img src="https://img.shields.io/badge/Source_Code-5a189a?style=flat-square&logo=github" /></a> |
+  | **Repo** | <a href="https://github.com/halilceng"><img src="https://img.shields.io/badge/Source_Code-5a189a?style=flat-square&logo=github" /></a> |
 </details>
 
 <details>
   <summary><b>2. Autonomous Agricultural Monitoring Robot (Teknofest)</b> <i>(Click to expand)</i></summary>
   <br />
-  Engineered for the agricultural technologies category. An autonomous robotics project designed to navigate and monitor corn fields, collecting vital environmental data for predictive crop yield analysis.
+  Engineered for the agricultural technologies category. Autonomous robotics project for monitoring corn fields.
   <br /><br />
 
   | Metric | Implementation Details |
   | :--- | :--- |
   | **Stack** | Python, C++, Data Science Libraries, Microcontrollers |
-  | **Scale** | Real-time sensor processing and autonomous navigation logic |
-  | **Performance** | Low-latency hardware-software communication |
-  | **Security** | Redundant fail-safes for mechanical operation |
-  | **Impact** | Showcased at major national technology festival |
-  | **Repo** | <a href="#"><img src="https://img.shields.io/badge/Private_Repo-3c096c?style=flat-square&logo=github" /></a> |
+  | **Repo** | <a href="https://github.com/halilceng"><img src="https://img.shields.io/badge/Private_Repo-3c096c?style=flat-square&logo=github" /></a> |
 </details>
 
 <details>
   <summary><b>3. Web Optimization & Localization Initiative</b> <i>(Click to expand)</i></summary>
   <br />
-  A large-scale freelance refactoring project involving a 22-page static web application. Rebuilt DOM structures, optimized SVG integrations, and established full localization capabilities.
+  Large-scale freelance refactoring project involving a 22-page static web application.
   <br /><br />
 
   | Metric | Implementation Details |
   | :--- | :--- |
   | **Stack** | HTML5, CSS3, JavaScript, SVG, Git |
-  | **Scale** | 22 unique views, comprehensive code cleanup |
-  | **Performance** | Drastically reduced page load times via asset minification |
-  | **Security** | Sanitized embedded scripts, enforced HTTPS standards |
-  | **Impact** | Elevated SEO rankings and multi-regional accessibility |
-  | **Repo** | <a href="#"><img src="https://img.shields.io/badge/Client_Project-5a189a?style=flat-square&logo=github" /></a> |
+  | **Repo** | <a href="https://github.com/halilceng"><img src="https://img.shields.io/badge/Client_Project-5a189a?style=flat-square&logo=github" /></a> |
 </details>
 
 ---
@@ -134,18 +122,12 @@ Experienced and product-focused **Software Engineer** specializing in robust bac
 
 ### **Freelance Web Developer & SEO Specialist**
 *Freelance* | *May 2026 - Present*
-Engineered high-performance, accessible web interfaces for clients, focusing on code maintainability and search engine optimization.
 * Executed complete refactoring of legacy 22-page HTML structures.
-* Implemented dynamic localization for multi-language support.
-* Optimized SVG rendering pipelines to improve cross-browser performance.
-* `HTML5` `CSS3` `JavaScript` `SEO` `Localization`
+* Implemented dynamic localization and optimized SVG pipelines.
 
 ### **Advertising Responsible (Executive Board)**
 *IEEE Student Branch* | *Nov 2025 - Present*
-Spearheaded digital campaigns and technical outreach for a major engineering society.
-* Coordinated branding, technical event promotions, and community engagement.
-* Managed cross-platform visual identity and member communication pipelines.
-* `Leadership` `Event Management` `Digital Marketing` `Networking`
+* Spearheaded digital campaigns and technical outreach programs.
 
 ---
 
@@ -155,9 +137,8 @@ Spearheaded digital campaigns and technical outreach for a major engineering soc
 
 | Recognition / Award | Detail / Context |
 | :---: | :--- |
-| **Teknofest Competitor** | Agricultural Technologies Category - Autonomous Robotics |
-| **Open Source Contributor** | Published scalable .NET MVC architectural templates |
-| **Academic Excellence** | Consistent top-tier performance in Data Structures & OOP |
+| **Teknofest Competitor** | Agricultural Technologies Category |
+| **Open Source Contributor** | Scalable .NET MVC architectures |
 
 </div>
 
@@ -169,18 +150,13 @@ Spearheaded digital campaigns and technical outreach for a major engineering soc
 * <img src="https://img.shields.io/badge/Certified-Prompt_Engineering_%26_AI_Agents-9D4EDD?style=for-the-badge" alt="Prompt Engineering" />
 * <img src="https://img.shields.io/badge/Certified-Applied_SQL-7b2cbf?style=for-the-badge" alt="SQL" />
 
-**Professional Workshops**
-* <img src="https://img.shields.io/badge/Certified-UI_Wizardry_With_ReactJS-5a189a?style=for-the-badge" alt="ReactJS" />
-* <img src="https://img.shields.io/badge/Certified-C%23_Object_Oriented_Programming-3c096c?style=for-the-badge" alt="C#" />
-
 ---
 
 ## 📈 Coding Profiles
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Premium_Solver-5a189a?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Gold_Badge-3c096c?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Active_Coder-9D4EDD?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://leetcode.com/halilceng/"><img src="https://img.shields.io/badge/LeetCode-Premium_Solver-5a189a?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/halilceng"><img src="https://img.shields.io/badge/HackerRank-Gold_Badge-3c096c?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </div>
 
 ---
@@ -196,24 +172,6 @@ Spearheaded digital campaigns and technical outreach for a major engineering soc
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=halilceng&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
-## 🌐 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=halilceng&bg_color=0d1117&color=9D4EDD&line=7b2cbf&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -225,21 +183,21 @@ Spearheaded digital campaigns and technical outreach for a major engineering soc
 
 ---
 
-## 🎯 Current Focus
+## 📬 Connect With Me
 
-```yaml
-Current_Status:
-  Learning:
-    - Advanced Microservices Architecture
-    - Cloud Deployment (AWS/Azure)
-    - Deep Learning for Computer Vision
-  Building:
-    - .NET MVC Graduation Project
-    - Scalable AI Agents
-  Exploring:
-    - Next.js Server-Side Rendering
-    - Rust for High-Performance Tooling
-  Open_To:
-    - Software Engineering Roles
-    - Open Source Collaborations
-    - Hackathons
+<div align="center">
+  <a href="mailto:halil.isik990@gmail.com"><img src="https://img.shields.io/badge/Gmail-halilceng-5a189a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/halil-işık-b0a86522a"><img src="https://img.shields.io/badge/LinkedIn-halilceng-3c096c?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/halilceng"><img src="https://img.shields.io/badge/GitHub-halilceng-9D4EDD?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://halil-isik.vercel.app/"><img src="https://img.shields.io/badge/Website-halilceng.dev-7b2cbf?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</div>
+
+<br />
+
+---
+
+<div align="center">
+  <i>"Writing clean code is what you must do in order to call yourself a professional."</i>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3c096c&height=100&section=footer" width="100%" />
+</div>
