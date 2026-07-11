@@ -2,12 +2,15 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Her 12 saatte bir çalıştırır
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
     - main
+
+# GitHub Actions botuna dosyayı kaydetme izni veriyoruz
+permissions:
+  contents: write
 
 jobs:
   build:
