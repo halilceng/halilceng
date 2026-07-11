@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=200&section=header&text=EMRE%20GÜNEŞ&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20|%20Data%20Science%20|%20Full%20Stack&descAlignY=55&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=200&section=header&text=HALİL%20IŞIK&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20|%20Data%20Science%20|%20Full%20Stack&descAlignY=55&descAlign=62" width="100%" />
 
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Science+Enthusiast;Full+Stack+Developer;.NET+%26+React+Architect" alt="Typing SVG" />
@@ -19,9 +19,9 @@
 
   <br /><br />
 
-  <img src="https://komarev.com/ghpvc/?username=emregunes&label=Profile%20Views&color=9D4EDD&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/emregunes?label=Followers&style=flat-square&color=7b2cbf" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/emregunes?label=Stars&style=flat-square&color=5a189a" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=halilisik&label=Profile%20Views&color=9D4EDD&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/halilisik?label=Followers&style=flat-square&color=7b2cbf" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/halilisik?label=Stars&style=flat-square&color=5a189a" alt="Stars" />
 </div>
 
 <br />
@@ -188,10 +188,10 @@ Spearheaded digital campaigns and technical outreach for a major engineering soc
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emregunes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D4EDD&text_color=ffffff&icon_color=7b2cbf" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emregunes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D4EDD&text_color=ffffff" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=halilisik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D4EDD&text_color=ffffff&icon_color=7b2cbf" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilisik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D4EDD&text_color=ffffff" alt="Top Languages" width="48%" />
   <br /><br />
-  <img src="https://streak-stats.demolab.com/?user=emregunes&theme=tokyonight&hide_border=true&background=0d1117&ring=9D4EDD&fire=7b2cbf&currStreakNum=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=halilisik&theme=tokyonight&hide_border=true&background=0d1117&ring=9D4EDD&fire=7b2cbf&currStreakNum=ffffff" alt="GitHub Streak" />
 </div>
 
 ---
@@ -200,7 +200,7 @@ Spearheaded digital campaigns and technical outreach for a major engineering soc
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=emregunes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=halilisik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -209,7 +209,7 @@ Spearheaded digital campaigns and technical outreach for a major engineering soc
 ## 🌐 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emregunes&bg_color=0d1117&color=9D4EDD&line=7b2cbf&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=halilisik&bg_color=0d1117&color=9D4EDD&line=7b2cbf&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
@@ -218,8 +218,8 @@ Spearheaded digital campaigns and technical outreach for a major engineering soc
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emregunes/emregunes/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emregunes/emregunes/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/halilisik/halilisik/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/halilisik/halilisik/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
