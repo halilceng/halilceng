@@ -8,7 +8,7 @@
   <br />
 
   <img src="https://img.shields.io/badge/Computer_Engineering-2nd_Year-5a189a?style=for-the-badge&logo=codeforces&logoColor=white" alt="Academic" />
-  <img src="https://img.shields.io/badge/Location-Gaziantep_TR-3c096c?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Mersin_TR-3c096c?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   
   <br /><br />
 
